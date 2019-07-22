@@ -1,0 +1,6 @@
+{
+    "name":"simple chrome extension",
+    "version":"1.0",
+    "description":"Just building a chrome extension for fun",
+    "manifest_version":2
+}
